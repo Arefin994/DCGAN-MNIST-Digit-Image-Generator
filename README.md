@@ -4,7 +4,7 @@ This repository implements a **Deep Convolutional Generative Adversarial Network
 
 ---
 
-## Table of Contents
+## Table of Contents 📑
 
 - [Overview](#overview)
 - [Features](#features)
@@ -17,7 +17,7 @@ This repository implements a **Deep Convolutional Generative Adversarial Network
 
 ---
 
-## Overview
+## Overview 🖼️
 
 A Generative Adversarial Network (GAN) consists of two neural networks:
 
@@ -28,7 +28,7 @@ This project uses a **Deep Convolutional GAN (DCGAN)** architecture, optimized f
 
 ---
 
-## Features
+## Features ✨
 
 - Generates realistic handwritten digit images.
 - Uses the MNIST dataset for training.
@@ -37,7 +37,7 @@ This project uses a **Deep Convolutional GAN (DCGAN)** architecture, optimized f
 
 ---
 
-## Setup and Installation
+## Setup and Installation 🛠️
 
 1. Clone the repository:
    ```bash
@@ -57,7 +57,7 @@ This project uses a **Deep Convolutional GAN (DCGAN)** architecture, optimized f
 
 ---
 
-## Training Workflow
+## Training Workflow 🔄
 
 1. **Data Preparation**: The MNIST dataset is loaded and preprocessed.
 2. **Model Creation**: 
@@ -73,7 +73,7 @@ This project uses a **Deep Convolutional GAN (DCGAN)** architecture, optimized f
 
 ---
 
-## Results
+## Results 🖼️
 
 ![Generated Digits GIF](./dcgan.gif)
 
@@ -81,14 +81,14 @@ This GIF demonstrates the improvement in the quality of generated digit images o
 
 ---
 
-## Usage
+## Usage 🧰
 
 - Modify the training parameters such as epochs, noise dimension, or batch size in the script for experimentation.
 - Use the saved checkpoints to restore and generate images without retraining.
 
 ---
 
-## Contributing
+## Contributing 🤝
 
 Contributions are welcome! If you have ideas to improve the architecture, code efficiency, or visualization, feel free to create a pull request.
 
